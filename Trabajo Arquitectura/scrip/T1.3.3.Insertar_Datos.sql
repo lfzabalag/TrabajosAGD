@@ -1,0 +1,125 @@
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (06b8999e2fba1a1fbc88172c00ba8bc7,861eff4711a542e4b93843c6dd7febb0,14409,franca,SP)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (18955e83d337fd6b2def6b18a428ac77,290c77bc529b7ac935b93aa66c333dc3,9790,sao bernardo do campo,SP)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (4e7b3e00288586ebd08712fdd0374a03,060e732b5b29e8181a18229c7b0b2b5e,1151,sao paulo,SP)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (b2b6027bc5c5109e529d4dc6358b12c3,259dac757896d24d7702b9acbbff3f3c,8775,mogi das cruzes,SP)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (4f2d8ab171c80ec8364f7c12e35b23ad,345ecd01c38d18a9036ed96c73b8d066,13056,campinas,SP)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (879864dab9bc3047522c92c82e1212b8,4c93744516667ad3b8f1fb645a3116a4,89254,jaragua do sul,SC)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (fd826e7cf63160e536e0908c76c3f441,addec96d2e059c80c30fe6871d30d177,4534,sao paulo,SP)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (5e274e7a0c3809e14aba7ad5aae0d407,57b2a98a409812fe9618067b6b8ebe4f,35182,timoteo,MG)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (5adf08e34b2e993982a47070956c5c65,1175e95fb47ddff9de6b2b06188f7e0d,81560,curitiba,PR)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (4b7139f34592b3a31687243a302fa75b,9afe194fb833f79e300e37e580171f22,30575,belo horizonte,MG)
+insert into olist_customers_dataset (customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state) values (9fb35e4ed6f0a14a4977cd9aea4042bb,2a7745e1ed516b289ed9b29c7d0539a5,39400,montes claros,MG)
+
+***********************************************************************************************************************************************************************************************************************************
+
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1037,-23.54562128,-46.63929205,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1046,-23.54608113,-46.6448203,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1046,-23.54612897,-46.64295148,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1041,-23.54439216,-46.63949931,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1035,-23.54157796,-46.64160722,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1012,-23.5477623,-46.63536054,sÃ£o paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1047,-23.54627311,-46.64122517,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1013,-23.54692321,-46.6342637,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1029,-23.54376906,-46.63427784,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1011,-23.54763955,-46.63603162,sao paulo,SP)
+insert into olist_geolocation_dataset (geolocation_zip_code_prefix,geolocation_lat,geolocation_Ing,geolocation_city,geolocation_state) values (1013,-23.54732513,-46.63418379,sao paulo,SP)
+
+***********************************************************************************************************************************************************************************************************************************************************************
+
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (00010242fe8c5a6d1ba2dd792cb16214,1,4244733e06e7ecb4970a6e2683c13e61,48436dade18ac8b2bce089ec2a041202,42997.40625,58.9,13.29)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (00018f77f2f0320c557190d7a144bdd3,1,e5f2d52b802189ee658865ca93d83a8f,dd7ddc04e1b6c2c614352b383efe2d36,42858.4618055556,239.9,19.93)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (000229ec398224ef6ca0657da4fc703e,1,c777355d18b72b67abbeef9df44fd0fd,5b51032eddd242adc84c38acab88f23d,43118.6166666667,199,17.87)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (00024acbcdf0a6daa1e931b038114c75,1,7634da152a4610f1595efa32f14722fc,9d7a1d34a5052409006425275ba1c2b4,43327.4236111111,12.99,12.79)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (00042b26cf59d7ce69dfabb4e55b4fd9,1,ac6c3623068f30de03045865e4e10089,df560393f3a51e74553ab94004ba5c87,42779.58125,199.9,18.14)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (00048cc3ae777c65dbb7d2a0634bc1ea,1,ef92defde845ab8450f9d70c526ef70f,6426d21aca402a131fc0a5d0960a3c90,42878.1631944444,21.9,12.69)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (00054e8431b9d7675808bcb819fb4a32,1,8d4f2bb7e93e6710a28f34fa83ee7d28,7040e82f899a04d1b434b795a43b4617,43083.5069444444,19.9,11.85)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (000576fe39319847cbb9d288c5617fa6,1,557d850972a7d6f792fd18ae1400d9b6,5996cddab893a4652a15592fb58ab8db,43291.5208333333,810,70.75)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (0005a1a1728c9d785b8e2b08b904576c,1,310ae3c140ff94b03219ad0adc3c778f,a416b6a846a11724393025641d4edd5e,43185.7715277778,145.95,11.65)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (0005f50442cb953dcd1d21e1fb923495,1,4535b0e1091c278dfd193e5a1d63b39f,ba143b05f0110f0dc71ad71b4466ce92,43287.5902777778,53.99,11.4)
+insert into olist_order_items_dataset (order_id,order_item_id,product_id,seller_id,shipping_limit_date,price,freight_value) values (00061f2a7bc09da83e415a52dc8a4af1,1,d63c1011f49d98b976c352955b1c4bea,cc419e0650a3c5ba77189a1882b7556a,43188.9361111111,59.99,8.88)
+
+***********************************************************************************************************************************************************************************************************************************************************************
+
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (b81ef226f3fe1789b1e8b2acac839d17,1,credit_card,8,99.33)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (a9810da82917af2d9aefd1278f1dcfa0,1,credit_card,1,24.39)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (25e8ea4e93396b6fa0d3dd708e76c1bd,1,credit_card,1,65.71)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (ba78997921bbcdc1373bb41e913ab953,1,credit_card,8,107.78)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (42fdf880ba16b47b59251dd489d4441a,1,credit_card,2,128.45)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (298fcdf1f73eb413e4d26d01b25bc1cd,1,credit_card,2,96.12)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (771ee386b001f06208a7419e4fc1bbd7,1,credit_card,1,81.16)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (3d7239c394a212faae122962df514ac7,1,credit_card,3,51.84)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (1f78449c87a54faf9e96e88ba1491fa9,1,credit_card,6,341.09)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (0573b5e23cbd798006520e1d5b4c6714,1,boleto,1,51.95)
+insert into olist_order_payments_dataset (order_id,payment_sequential,payment_type,payment_installments,payment_value) values (d88e0d5fa41661ce03cf6cf336527646,1,credit_card,8,188.73)
+
+***************************************************************************************************************************************************************************************
+
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (7bc2406110b926393aa56f80a40eba40,73fc7af87114b39712e6da79b0a377eb,4,null,null,43118,43118.9069444444)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (80e641a11e56f04c1ad469d5645fdfde,a548910a1c6147796b98fdf73dbeba33,5,null,null,43169,43170.1284722222)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (228ce5500dc1d8e020d8d1322874b6f0,f9e4b658b201a9f2ecdecbb34bed034b,5,null,null,43148,43149.6083333333)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (e64fb393e7b32834bb789ff8bb30750e,658677c97b385a9be170737859d3511b,5,null,Recebi bem antes do prazo estipulado.,42846,42846.9180555556)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (f7c4243c7fe1938f181bec41a392bdeb,8e6bfb81e283fa7e4f11123a3fb894f1,5,null,ParabÃ©ns lojas lannister adorei comprar pela Internet seguro e prÃ¡tico ParabÃ©ns a todos feliz PÃ¡scoa,43160,43161.4347222222)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (15197aa66ff4d0650b5434f1b46cda19,b18dcdf73be66366873cd26c5724d1dc,1,null,null,43203,43206.0270833333)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (07f9bee5d1b850860defd761afa7ff16,e48aa0d2dcec3a2e87348811bcfdf22b,5,null,null,42932,42934.8125)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (7c6400515c67679fbee952a7525281ef,c31a859e34e3adac22f376954e19b39d,5,null,null,43326,43326.9)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (a3f6f7f6f433de0aefbb97da197c554c,9c214ac970e84273583ab523dfafd09b,5,null,null,42872,42873.5034722222)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (8670d52e15e00043ae7de4c01cc2fe06,b9bf720beb4ab3728760088589c62129,4,recomendo,aparelho eficiente. no site a marca do aparelho esta impresso como 3desinfector e ao chegar esta com outro nome...atualizar com a marca correta uma vez que Ã© o mesmo aparelho,43242,43243.6979166667)
+insert into olist_order_reviews_dataset (review_id,order_id,review_score,review_comment_title,review_creation_date,review_answer_timestamp) values (c9cfd2d5ab5911836ababae136c3a10c,cdf9aa68e72324eeb25c7de974696ee2,5,null,null,43092,43095.6083333333)
+
+*****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (e481f51cbdc54678b7cc49136f2d6af7,9ef432eb6251297304e76186b10a928d,delivered,43010.4555555556,43010.4631944444,43012.8298611111,43018.8923611111,43026)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (53cdb2fc8bc7dce0b6741e2150273451,b0830fb4747a6c6d20dea0b8c802d7ef,delivered,43305.8618055556,43307.1416666667,43307.6048611111,43319.64375,43325)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (47770eb9100c2d0c44946d9cf07ec65d,41ce2a54c0b03bf3443c3d931a367089,delivered,43320.3597222222,43320.3715277778,43320.5763888889,43329.7541666667,43347)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (949d5b44dbf5de918fe9c16f97b45f8a,f88197465ea7920adcdbec7375364d82,delivered,43057.8111111111,43057.8229166667,43061.56875,43071.0194444444,43084)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (ad21c59c0840e6cb83a9ceb5573f8159,8ab97904e6daea8866dbdbc4fb7aad2c,delivered,43144.8875,43144.9305555556,43145.8236111111,43147.7618055556,43157)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (a4591c265e18cb1dcee52889e2d8acc3,503740e9ca751ccdda7ba28e9ab8f608,delivered,42925.9145833333,42925.9236111111,42927.6236111111,42942.45625,42948)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (136cce7faa42fdb2cefd53fdc79a6098,ed0271e0b7da060a393796590e7b737a,invoiced,42836.5152777778,42838.5590277778,00/00/0000 00:00,00/00/0000 00:00,42864)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (6514b8ad8028c9f2cc2374ded245783f,9bdf08b4b3b52b5526ff42d37d47f222,delivered,42871.5486111111,42871.5569444444,42877.4215277778,42881.5381944444,42893)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (76c6e866289321a7c93b82b54852dc33,f54a9f0e6b351c431402b8461ea51999,delivered,42758.7701388889,42760.1180555556,42761.5944444444,42768.5888888889,42800)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (e69bfb5eb88e0ed6a785585b27e16dbf,31ad1d1b63eb9962463f764d4e6e0c9d,delivered,42945.4965277778,42945.5034722222,42957.8229166667,42963.7180555556,42970)	
+insert into olist_orders_dataset (order_id,customer_id,order_status,order_purchase_timestamp,order_approaved_at,order_delivered_carrier,order_delivered_customer_date,order_estimated_delivery_date) values (e6ce16cb79ec1d90b1da9085a6118aeb,494dded5b201313c64ed7f100595b95c,delivered,42871.8201388889,42871.8263888889,42873.4861111111,42884.4708333333,42893)	
+
+*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (1e9e8ef04dbcff4541ed26657ea517e5,perfumaria,40,287,1,225,16,10,14)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (3aa071139cb16b67ca9e5dea641aaa2f,artes,44,276,1,1000,30,18,20)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (96bd76ec8810374ed1b65e291975717f,esporte_lazer,46,250,1,154,18,9,15)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (cef67bcfe19066a932b7673e239eb23d,bebes,27,261,1,371,26,4,26)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (9dc1a7de274444849c219cff195d0b71,utilidades_domesticas,37,402,4,625,20,17,13)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (41d3672d4792049fa1779bb35283ed13,instrumentos_musicais,60,745,1,200,38,5,11)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (732bd381ad09e530fe0a5f457d81becb,cool_stuff,56,1272,4,18350,70,24,44)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (2548af3e6e77a690cf3eb6368e9ab61e,moveis_decoracao,56,184,2,900,40,8,40)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (37cc742be07708b53a98702e77a21a02,eletrodomesticos,57,163,1,400,27,13,17)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (8c92109888e8cdf9d66dc7e463025574,brinquedos,36,1156,1,600,17,10,12)
+insert into olist_products_dataset (product_id,product_category_name,product_name_lenght,product_description_lenght,product_photos_qty,product_weight_g,product_length_cm,product_height_cm,product_width_cm) values (14aa47b7fe5c25522b47b4b29c98dcb9,cama_mesa_banho,54,630,1,1100,16,10,16)
+
+***************************************************************************************************************************************************************************************************************************************************************************************************
+
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (3442f8959a84dea7ee197c632cb2df15,13023,campinas,SP)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (d1b65fc7debc3361ea86b5f14c68d2e2,13844,mogi guacu,SP)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (ce3ad9de960102d0677a81f5d0bb7b2d,20031,rio de janeiro,RJ)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (c0f3eea2e14555b6faeea3dd58c1b1c3,4195,sao paulo,SP)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (51a04a8a6bdcb23deccc82b0b80742cf,12914,braganca paulista,SP)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (c240c4061717ac1806ae6ee72be3533b,20920,rio de janeiro,RJ)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (e49c26c3edfa46d227d5121a6b6e4d37,55325,brejao,PE)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (1b938a7ec6ac5061a66a3766e0e75f90,16304,penapolis,SP)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (768a86e36ad6aae3d03ee3c6433d61df,1529,sao paulo,SP)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (ccc4bbb5f32a6ab2b7066a4130f114e3,80310,curitiba,PR)
+insert into olist_sellers_dataset (seller_id,seller_zip_code_prefix,seller_city,seller_state) values (8cb7c5ddf41f4d506eba76e9a4702a25,75110,anapolis,GO)
+
+******************************************************************************************************************************************************************
+
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (beleza_saude,health_beauty)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (informatica_acessorios,computers_accessories)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (automotivo,auto)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (cama_mesa_banho,bed_bath_table)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (moveis_decoracao,furniture_decor)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (esporte_lazer,sports_leisure)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (perfumaria,perfumery)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (utilidades_domesticas,housewares)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (telefonia,telephony)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (relogios_presentes,watches_gifts)
+insert into product_category_name_translation (product_category_name,product_category_name_english) values (alimentos_bebidas,food_drink)
+
+*********************************************************************************************************************************************************
